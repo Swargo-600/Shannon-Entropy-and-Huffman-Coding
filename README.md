@@ -10,8 +10,7 @@
 
 | No. | Name | Role |
 |---|---|---|
-| 1 | [Md. Samiul Hasan  
-Bhuiyan  ] | Group Leader |
+| 1 | [Md. Samiul Hasan  Bhuiyan  ] | Group Leader |
 | 2 | [Md. Habibul Islam  ] | Analysis & AI Lead   |
 | 3 | [Jobaer Abduallh  ] | Writing Lead   |
 | 4 | [Abu Talha Swargo ] | Literature Manager  |
